@@ -5,15 +5,18 @@
  sudo docker-compose up -d
 ```
 
-Kong
+### Kong
 ```bash
 localhost:8000 //Kong’s admin API
 localhost:8000 //Gateway
 ```
 
-Konga
+### Konga
 ```bash
 localhost:1337 //Konga Dashboard
 ```
+
+### Example for create a new service and route
+<img src="example.gif" />
 
 
