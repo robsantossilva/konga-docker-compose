@@ -1,4 +1,4 @@
-# konga-docker-compose
+# Konga docker-compose
  Docker-compose file to start Kong
 
 ```bash
